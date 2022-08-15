@@ -1,0 +1,137 @@
+{
+    "title": "Basics",
+    "icon":"pawn",
+    "disscussion":"https://github.com/ROOTBABU/solidity/discussions/2",
+    "topicsList": [
+        {
+            "title": "Introduction",
+            "icon": "fas fa-praying-hands",
+            "childs": [
+                {
+                    "title": "What is Solidity?",
+                    "href": {
+                        "file": "helloworld.md",
+                        "id": "top",
+                        "githubLink": ""
+                    }
+                },
+                {
+                    "title": "Remix IDE",
+                    "href": {
+                        "file": "helloworld.md",
+                        "id": "remix-ide",
+                        "githubLink": ""
+                    }
+                },
+                {
+                    "title": "Hello World!",
+                    "href": {
+                        "file": "helloworld.md",
+                        "id": "hello-world",
+                        "githubLink": ""
+                    }
+                },
+                {
+                    "title": "Deployment",
+                    "href": {
+                        "file": "helloworld.md",
+                        "id": "deployment",
+                        "githubLink": ""
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Variables",
+            "icon":"fas fa-box-open",
+            "childs": [
+                {
+                    "title": "Defination",
+                    "href": {
+                        "file": "variables-basic.md",
+                        "id": "top",
+                        "githubLink": ""
+                    }
+                },
+                {
+                    "title": "State Variables",
+                    "href": {
+                        "file": "variables-basic.md",
+                        "id":"state-variables",
+                        "githubLink": ""
+                    }
+                },
+                {
+                    "title": "Local Variables",
+                    "href": {
+                        "file": "variables-basic.md",
+                        "id": "local-variables",
+                        "githubLink": ""
+                    }
+                },
+                {
+                    "title": "Global Variables",
+                    "href": {
+                        "file": "variables-basic.md",
+                        "id": "global-variables",
+                        "githubLink": ""
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Types",
+            "icon":"fas fa-map-signs",
+            "childs": [
+                {
+                    "title": "Value Types",
+                    "href": {
+                        "file": "types.md",
+                        "id": "top",
+                        "githubLink": ""
+                    }
+                },
+                {
+                    "title": "Boolean",
+                    "href": {
+                        "file": "types.md",
+                        "id":"boolean",
+                        "githubLink": ""
+                    }
+                },
+                {
+                    "title": "Integers",
+                    "href": {
+                        "file": "types.md",
+                        "id": "integers",
+                        "githubLink": ""
+                    }
+                },
+                {
+                    "title": "Fixed Point Numbers",
+                    "href": {
+                        "file": "types.md",
+                        "id": "fixed-point-numbers",
+                        "githubLink": ""
+                    }
+                },
+                {
+                    "title": "Address",
+                    "href": {
+                        "file": "types.md",
+                        "id": "address",
+                        "githubLink": ""
+                    }
+                },
+                {
+                    "title": "Fixed-size Byte Arrays",
+                    "href": {
+                        "file": "types.md",
+                        "id": "fixed-size-byte-array",
+                        "githubLink": ""
+                    }
+                }
+            ]
+        }
+    ]
+}
