@@ -4,13 +4,13 @@
           "icon": "fas fa-asterisk",
           "title": "Prerequisites",
           "detail": "At the end of this section you will learn basics of blockchain which help to start with solidity programming language.",
-          "route": "prerequisites"
+          "route": "#/prerequisites"
         },
         {
           "icon": "fas fa-chess-pawn",
           "title": "Basics",
           "detail": "Coming Soon!",
-          "route": "basic"
+          "route": "#/basic"
         },
         {
           "icon": "fas fa-chess-queen",
