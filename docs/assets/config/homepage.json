@@ -3,49 +3,54 @@
         {
           "icon": "fas fa-asterisk",
           "title": "Prerequisites",
-          "detail": "At the end of this section you will learn basics of blockchain which help to start with solidity programming language.",
+          "detail": "In order to start solidity, the following prerequisites must be met.",
           "route": "prerequisites"
         },
         {
           "icon": "fas fa-chess-pawn",
           "title": "Basics",
-          "detail": "Coming Soon!",
+          "detail": "the basic concepts of solidity with examples and projects.",
           "route": "basics"
         },
         {
           "icon": "fas fa-chess-queen",
           "title": "Intermediate",
           "detail": "Coming Soon!",
-          "route": "#"
+          "route": "#",
+          "isDisable": true
         },
         {
           "icon": "fas fa-chess-king",
           "title": "Advanced",
           "detail": "Coming Soon!",
-          "route": "#"
+          "route": "#",
+          "isDisable": true
         },
         {
           "icon": "fas fa-file-alt",
           "title": "Cheatsheet",
           "detail": "Coming Soon!",
-          "route": "#"
+          "route": "#",
+          "isDisable": true
         },
         {
           "icon": "fas fa-bug",
           "title": "Bugs and Security",
           "detail": "Coming Soon!",
-          "route": "#"
+          "route": "#",
+          "isDisable": true
         },
         {
           "icon": "fas fa-map",
           "title": "Roadmaps",
           "detail": "Coming Soon!",
-          "route": "#"
+          "route": "#",
+          "isDisable": true
         },
         {
           "icon": "fas fa-blog",
           "title": "List of Blogs",
-          "detail": "Coming Soon!",
+          "detail": "Listed external resources",
           "route": "blogs"
         }
       ]
