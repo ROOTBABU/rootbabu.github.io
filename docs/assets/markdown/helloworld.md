@@ -155,7 +155,7 @@ From the bytecode file, copy the value of the object key. Add the prefix `0x` to
 
 **ABI:** ABI is an interface used to interact with bytecode.
 
-  <img src="././assets/images/ABI code.JPG" >
+  <img src="././assets/images/ABI code.JPG" id="myImg">
   <b><center class="img-label">ABI</center></b>
 
 Solidity automatically creates a get method to access the value of variables we create, such as `hello` in our `Hello World example` (the get method is actually called to access the value). In the ABI file, we can see that an object is created for the `hello` get method. Through this interface, we can interact with bytecode in any programming language such as In our Hello World example, we click a button to print the `hello world!`, which is actually code in `JS`.  As the `JS` code interacts with the `ABI` and the `ABI` interacts with the `bytecode`, the `bytecode` runs in `EVM` and `EVM` returns the output as per the instructions.

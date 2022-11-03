@@ -34,7 +34,7 @@ The search box allows you to search any string in files and filter them based on
 
 **3. Solidity compiler:** Click the Solidity icon to get to the `Solidity compiler` module.
 
-<center><img alt="Remix IDE Panels"  src="./assets/images/remix-compiler.JPG" ></center>
+<center><img alt="Remix IDE Panels"  src="./assets/images/remix-compiler.JPG" id="myImg"></center>
 <b><center class="img-label">Solidity compiler</center></b>
 
 Using `File Explorer`, select a file to compile. If you have several files open, make sure the one you want to compile is the active file. There is a choice of `compiler versions`, `auto compile` and `hide warnings`. To compile the file, click on compile or compile and run script.
