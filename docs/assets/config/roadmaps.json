@@ -12,7 +12,7 @@
             "icon": "",
             "childs": [
                 {
-                    "title": "Beginner",
+                    "title": "Beginners",
                     "href": {
                         "file": "solidity.md",
                         "id": "top",
